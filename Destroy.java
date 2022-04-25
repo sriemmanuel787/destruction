@@ -1,6 +1,6 @@
 import java.io.*;
 
-class Main{
+class Destroy{
   public static void main(String[] args)throws FileNotFoundException{
     String fileName = "";
     for(int i = 0; i >= 0; i++){
